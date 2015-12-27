@@ -1,7 +1,7 @@
 name: akarasauraus
 favicon: null
-layout_spectrum: 0.8119318862445652
-typography_spectrum: 0.45281836087815464
+layout_spectrum: 0.52677
+typography_spectrum: 0.64357
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#9f9188'
     - '#7c736e'
   brandStrength: 0.25
-  lightness: 0.2966499677859247
-  saturation: 0.7049239221960306
-  rhythmicContrast: 0.9082264653407037
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
