@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[akarasauraus]]></title>
+        <description><![CDATA[akarasauraus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 06:53:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“I want to know what passion is. I want to feel something strongly.”]]></title>
+            <description><![CDATA[<article><h1>“I want to know what passion is. I want to feel something strongly.”</h1><p>- Aldous Huxley, Brave New World</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2877c386-9315-4494-9d2d-b0465278cfc1.jpg"></article>]]></description>
+            <link>undefinedi-want-to-know-what-passion-is-i-want-to-feel-something-st/index.html</link>
+            <guid isPermaLink="false">c7a1f8a2-d6fe-4f69-af97-419357be916e</guid>
+            <pubDate>Sun, 27 Dec 2015 06:53:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
